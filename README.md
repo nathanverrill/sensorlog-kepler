@@ -1,6 +1,6 @@
 # Mapping Sensorlog Data in Kepler
 
-Nathan Verrill, SAIC, nathan.verrill@saic.com
+Nathan Verrill
 
 14 Oct 2022
 
